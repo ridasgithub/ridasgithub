@@ -1,6 +1,7 @@
 ## ridasgithub work:
 
-undergrad senior design project [link]([url](https://github.com/wwatson9/AI-Blockchain-IoT-Framework-for-Public-Sector-Accountability)) 
+undergrad senior design project [link](undergrad senior design project [link]([url](https://github.com/wwatson9/AI-Blockchain-IoT-Framework-for-Public-Sector-Accountability)) 
+)
 
 <!--
 **ridasgithub/ridasgithub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
