@@ -1,5 +1,6 @@
 ## ridasgithub work:
-interested in secure AI, IoT, embedded systems
+interested in secure AI, IoT, embedded systems, wireless networks
+-----------------------------------------------------------------
 
 undergrad senior design project @ gmu: <a href="https://github.com/wwatson9/AI-Blockchain-IoT-Framework-for-Public-Sector-Accountability">link</a>
 undergraduate research work (link coming soon)
