@@ -3,7 +3,6 @@
 interests:
 secure AI, IoT, embedded systems, wireless networks
 
------------------------------------------------------------------
 
 projects:
 undergrad senior design project @ gmu: <a href="https://github.com/wwatson9/AI-Blockchain-IoT-Framework-for-Public-Sector-Accountability">link</a>
