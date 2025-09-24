@@ -1,6 +1,12 @@
 ## ridasgithub work:
+interested in secure AI, IoT, embedded systems
 
-undergrad senior design project <a href="https://github.com/wwatson9/AI-Blockchain-IoT-Framework-for-Public-Sector-Accountability">link</a>
+undergrad senior design project @ gmu: <a href="https://github.com/wwatson9/AI-Blockchain-IoT-Framework-for-Public-Sector-Accountability">link</a>
+undergraduate research work (link coming soon)
+
+breakthroughtech kaggle competition (#4/76) - plant specimen classification writeup <a href="[https://github.com/wwatson9/AI-Blockchain-IoT-Framework-for-Public-Sector-Accountability](https://www.kaggle.com/competitions/bttai-nybg-2024/writeups/teambonsai-vir-team-bonsai-s-solution)">link</a>
+
+ctf writeups (link coming soon)
 <!--
 **ridasgithub/ridasgithub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
