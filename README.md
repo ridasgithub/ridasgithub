@@ -6,6 +6,7 @@ cyber security engineering CSAI @ george mason university
 
 graduate research work:
 - Optimization of Gradient Inversion Attacks (GIAs) through Class-Conditional Latent Space Search and Gradient Mimicry
+- capstone work: incoming
   
 undergraduate research work:
 - A High-Fidelity Speech Super Resolution Network using a Complex Global Attention Module with Spectro-Temporal Loss: [link](https://arxiv.org/abs/2507.00229)
@@ -13,8 +14,11 @@ undergraduate research work:
 - HOST 2026 -> WaLi: Can Pressure Sensors in HVAC Systems Capture Human Speech?: [link](https://arxiv.org/abs/2506.22311)
 
 projects:
+- agentic ai projects: (still working)
+- Intelligent Sentence Splitting Matching ML models
 - undergrad senior design project @ gmu: [link](https://github.com/wwatson9/AI-Blockchain-IoT-Framework-for-Public-Sector-Accountability)
 - breakthroughtech kaggle competition (#4/76) - plant specimen classification writeup [link](https://www.kaggle.com/competitions/bttai-nybg-2024/writeups/teambonsai-vir-team-bonsai-s-solution)
+- patriothacks hackathon project, translating ASL to English: [link](https://github.com/wijdanem/SignSync.github.io)
 
 ctfs completed:
 - TryHackMe, picoCTF
