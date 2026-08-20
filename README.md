@@ -10,7 +10,7 @@ undergraduate research work:
 - HOST 2026 -> WaLi: Can Pressure Sensors in HVAC Systems Capture Human Speech?: [link](https://arxiv.org/abs/2506.22311)
 
 graduate research work:
-- incoming
+- Optimization of Gradient Inversion Attacks (GIAs) through Class-Conditional Latent Space Search and Gradient Mimicry
 
 projects:
 - undergrad senior design project @ gmu: [link](https://github.com/wwatson9/AI-Blockchain-IoT-Framework-for-Public-Sector-Accountability)
