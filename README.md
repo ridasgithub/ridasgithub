@@ -5,8 +5,9 @@ secure AI, IoT, embedded systems, wireless networks
 cyber security engineering CSAI @ george mason university
 
 undergraduate research work:
-- HVAC-EAR: Eavesdropping Human Speech Using HVAC Systems: [link](https://arxiv.org/pdf/2510.01082)
-- WaLi: Can Pressure Sensors in HVAC Systems Capture Human Speech?: [link](https://arxiv.org/abs/2506.22311)
+- A High-Fidelity Speech Super Resolution Network using a Complex Global Attention Module with Spectro-Temporal Loss: [link](https://arxiv.org/abs/2507.00229)
+- ICASSP 2026 -> HVAC-EAR: Eavesdropping Human Speech Using HVAC Systems: [link](https://arxiv.org/pdf/2510.01082)
+- HOST 2026 -> WaLi: Can Pressure Sensors in HVAC Systems Capture Human Speech?: [link](https://arxiv.org/abs/2506.22311)
 
 graduate research work:
 - incoming
