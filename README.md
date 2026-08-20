@@ -1,7 +1,7 @@
 ## ridasgithub work:
 -----------------------------------------------------------------
 interests:
-secure AI, IoT, embedded systems, wireless networks
+secure AI, IoT, embedded systems, wireless networks\
 cyber security engineering CSAI @ george mason university
 
 undergraduate research work:
