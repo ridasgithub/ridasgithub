@@ -18,7 +18,7 @@ projects:
 - CGS: Geospatial Mapping Platform (end-to-end), built backend & cloud: [link](https://drive.google.com/file/d/1wAQt7S6q6csYTOXY3H6FvdbMrFB-0RxZ/view?usp=sharing)
 - Intelligent Sentence Splitting Matching ML models
 - undergrad senior design project @ gmu: [link](https://github.com/wwatson9/AI-Blockchain-IoT-Framework-for-Public-Sector-Accountability)
-- breakthroughtech kaggle competition (#4/76) - plant specimen classification writeup [link](https://www.kaggle.com/competitions/bttai-nybg-2024/writeups/teambonsai-vir-team-bonsai-s-solution)
+- breakthroughtech kaggle competition (ranked #4/76 teams) - plant specimen classification writeup [link](https://www.kaggle.com/competitions/bttai-nybg-2024/writeups/teambonsai-vir-team-bonsai-s-solution)
 - patriothacks hackathon project, translating ASL to English: [link](https://github.com/wijdanem/SignSync.github.io)
 
 ctfs completed:
