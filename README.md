@@ -23,6 +23,7 @@ projects:
 
 ctfs completed:
 - TryHackMe, picoCTF
+- WiCys SentinelOne ThreatOps CTF Series (2026)
 - WiCyS Sisterhood of the Traveling Packets (2026)
 - WiCyS 2025 Security Training Scholarship - Tier1: SANS BootUp Capture-the-flag (CTF), Tier2: SkillsQuest (SSQ) by NetWars 
 <!--
